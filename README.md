@@ -73,7 +73,6 @@ The KNN model successfully retrieves relevant resumes (e.g., searching for "HR M
 
 ---
 
-## 📸 Visualization
 
 ## 📸 Visuals from the Project
 
@@ -101,7 +100,7 @@ Shows exactly where the model confuses similar categories (e.g., "Sales" vs. "Bu
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/naham/FUTURE_ML_03.git
+git clone https://github.com/naham6/FUTURE_ML_03.git
 cd FUTURE_ML_03
 ````
 
