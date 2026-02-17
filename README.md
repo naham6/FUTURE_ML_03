@@ -130,7 +130,7 @@ It will then output the:
 ## 🔮 Future Improvements
 
 * **Deep Learning:** Implement BERT/Transformers for better context understanding
-* **Resume Parsing:** Integrate a PDF parser (like `pdfplumber`) to read actual files instead of text snippets
+* **Resume Parsing:** Integrate a PDF parser to read actual files instead of text snippets
 
 ---
 
