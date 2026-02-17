@@ -79,7 +79,7 @@ The KNN model successfully retrieves relevant resumes (e.g., searching for "HR M
 
 | Feature | Screenshot |
 | :--- | :--- |
-| **Skill Gap Analysis** | *[pictures/missingskills.png]* |
+| **Skill Gap Analysis** | *![Alt text](pictures/missingskills.png)* |
 | **Word Clouds** | *[Insert a screenshot of your IT/HR Word Cloud here]* |
 | **Confusion Matrix** | *[Insert a screenshot of your Blue Heatmap here]* |
 
