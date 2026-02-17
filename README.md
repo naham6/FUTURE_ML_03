@@ -101,8 +101,8 @@ Shows exactly where the model confuses similar categories (e.g., "Sales" vs. "Bu
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/nahame/FUTURE_ML_03.git
-cd resume-screening-system
+git clone https://github.com/naham/FUTURE_ML_03.git
+cd FUTURE_ML_03
 ````
 
 ### 2️⃣ Install Dependencies
