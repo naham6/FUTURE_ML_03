@@ -80,7 +80,7 @@ The KNN model successfully retrieves relevant resumes (e.g., searching for "HR M
 | Feature | Screenshot |
 | :--- | :--- |
 | **Word Clouds** | *<img src="pictures/words.png" width="400">* |
-| **Skill Gap Analysis** | *![missingskills](pictures/missingskills.png)* |
+| **Skill Gap Analysis** | *<img src="pictures/missingskills.png" width="400">* |
 
 The system generates visual reports for recruiters:
 
