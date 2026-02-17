@@ -75,10 +75,18 @@ The KNN model successfully retrieves relevant resumes (e.g., searching for "HR M
 
 ## 📸 Visualization
 
+## 📸 Visuals from the Project
+
+| Feature | Screenshot |
+| :--- | :--- |
+| **Skill Gap Analysis** | *[Insert a screenshot of your Donut Chart here]* |
+| **Word Clouds** | *[Insert a screenshot of your IT/HR Word Cloud here]* |
+| **Confusion Matrix** | *[Insert a screenshot of your Blue Heatmap here]* |
+
 The system generates visual reports for recruiters:
 
 ### 1️⃣ Skill Gap Analysis
-A visual breakdown of which skills the candidate matches and which are missing from the job description.
+Generates a Donut Chart representing the % match and a Detailed Text Report listing specific missing skills (e.g., "Missing: Tableau, TensorFlow").
 
 ### 2️⃣ Confusion Matrix
 Shows exactly where the model confuses similar categories (e.g., "Sales" vs. "Business Development").
